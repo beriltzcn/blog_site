@@ -168,8 +168,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Beril', 'beril@gmail.com', NULL, '$2y$12$0StBzizcnVG/.xb42QGJeeKSHNlkbDX1KQXsu.MUgKjwjHPOxtaNi', NULL, '2024-01-06 10:55:42', '2024-01-06 10:55:42'),
-(2, 'Emirhan', 'eqweqwe@qweqe.com', NULL, '$2y$12$/NZZozvtcpD9n9Gd7I44EuyxqDgwzSH/KNMk8VAWZOyvmapAHwAQy', NULL, '2024-01-07 06:42:56', '2024-01-07 06:42:56');
+(1, 'Beril', 'beril@gmail.com', NULL, '$2y$12$0StBzizcnVG/.xb42QGJeeKSHNlkbDX1KQXsu.MUgKjwjHPOxtaNi', NULL, '2024-01-06 10:55:42', '2024-01-06 10:55:42');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
